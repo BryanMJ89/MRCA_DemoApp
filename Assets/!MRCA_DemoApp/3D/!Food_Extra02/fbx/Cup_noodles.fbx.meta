@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 18f0c8abb72e60e4c8b9c54348a7b953
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cup_Noodle
+    100002: Cup_Noodle1
+    100004: Cup_Noodle2
+    100006: Cup_Noodle3
+    100008: Cup_noodle_body
+    100010: Cup_noodle_body 1
+    100012: Cup_noodle_body 2
+    100014: Cup_noodle_body 3
+    100016: Cup_noodle_bottom
+    100018: Cup_noodle_bottom 1
+    100020: Cup_noodle_bottom 2
+    100022: Cup_noodle_bottom 3
+    100024: Cup_noodle_cover
+    100026: Cup_noodle_cover 1
+    100028: Cup_noodle_cover 2
+    100030: Cup_noodle_cover 3
+    100032: Cup_noodle_white
+    100034: Cup_noodle_white 1
+    100036: Cup_noodle_white 2
+    100038: Cup_noodle_white 3
+    100040: //RootNode
+    400000: Cup_Noodle
+    400002: Cup_Noodle1
+    400004: Cup_Noodle2
+    400006: Cup_Noodle3
+    400008: Cup_noodle_body
+    400010: Cup_noodle_body 1
+    400012: Cup_noodle_body 2
+    400014: Cup_noodle_body 3
+    400016: Cup_noodle_bottom
+    400018: Cup_noodle_bottom 1
+    400020: Cup_noodle_bottom 2
+    400022: Cup_noodle_bottom 3
+    400024: Cup_noodle_cover
+    400026: Cup_noodle_cover 1
+    400028: Cup_noodle_cover 2
+    400030: Cup_noodle_cover 3
+    400032: Cup_noodle_white
+    400034: Cup_noodle_white 1
+    400036: Cup_noodle_white 2
+    400038: Cup_noodle_white 3
+    400040: //RootNode
+    2100000: Cupnoodle_white
+    2100002: Cupnoodle_3
+    2100004: Cupnoodle_2
+    2100006: Cupnoodle_1
+    2100008: Cup_noodle
+    2300000: Cup_noodle_body
+    2300002: Cup_noodle_body 1
+    2300004: Cup_noodle_body 2
+    2300006: Cup_noodle_body 3
+    2300008: Cup_noodle_bottom
+    2300010: Cup_noodle_bottom 1
+    2300012: Cup_noodle_bottom 2
+    2300014: Cup_noodle_bottom 3
+    2300016: Cup_noodle_cover
+    2300018: Cup_noodle_cover 1
+    2300020: Cup_noodle_cover 2
+    2300022: Cup_noodle_cover 3
+    2300024: Cup_noodle_white
+    2300026: Cup_noodle_white 1
+    2300028: Cup_noodle_white 2
+    2300030: Cup_noodle_white 3
+    3300000: Cup_noodle_body
+    3300002: Cup_noodle_body 1
+    3300004: Cup_noodle_body 2
+    3300006: Cup_noodle_body 3
+    3300008: Cup_noodle_bottom
+    3300010: Cup_noodle_bottom 1
+    3300012: Cup_noodle_bottom 2
+    3300014: Cup_noodle_bottom 3
+    3300016: Cup_noodle_cover
+    3300018: Cup_noodle_cover 1
+    3300020: Cup_noodle_cover 2
+    3300022: Cup_noodle_cover 3
+    3300024: Cup_noodle_white
+    3300026: Cup_noodle_white 1
+    3300028: Cup_noodle_white 2
+    3300030: Cup_noodle_white 3
+    4300000: Cup_noodle_white
+    4300002: Cup_noodle_cover
+    4300004: Cup_noodle_body
+    4300006: Cup_noodle_bottom
+    4300008: Cup_noodle_white
+    4300010: Cup_noodle_cover
+    4300012: Cup_noodle_body
+    4300014: Cup_noodle_bottom
+    4300016: Cup_noodle_white
+    4300018: Cup_noodle_cover
+    4300020: Cup_noodle_body
+    4300022: Cup_noodle_bottom
+    4300024: Cup_noodle_white
+    4300026: Cup_noodle_cover
+    4300028: Cup_noodle_body
+    4300030: Cup_noodle_bottom
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cup_noodle
+    second: {fileID: 2100000, guid: 16a8781314d672a4cbfca5b2a9d0ba36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupnoodle_1
+    second: {fileID: 2100000, guid: 0f0909b1794ee834d8a10417e52df132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupnoodle_2
+    second: {fileID: 2100000, guid: 329565454c044f742b2078321f21266c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupnoodle_3
+    second: {fileID: 2100000, guid: 80a381415936f264796dbab682f2b51e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

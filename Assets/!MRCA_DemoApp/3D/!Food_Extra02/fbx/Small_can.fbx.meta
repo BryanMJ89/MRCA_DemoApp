@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: dd3f1698a49ff6243aa58cc80d6b109a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Can
+    100002: Can 1
+    100004: Can 2
+    100006: pCylinder1
+    100008: pCylinder1 1
+    100010: Rose
+    100012: //RootNode
+    100014: Small_can
+    100016: xiadele_Circle002
+    100018: xiadele_Line010
+    100020: xiadele_Plane005
+    100022: xiadele_Plane006
+    100024: xiadele_Sphere010
+    100026: xiadele_Sphere022
+    100028: xiadele_Sphere031
+    100030: xiadele_Sphere044
+    100032: xiadele_Sphere066
+    100034: xiadele_Sphere081
+    100036: xiadele_Sphere083
+    400000: Can
+    400002: Can 1
+    400004: Can 2
+    400006: pCylinder1
+    400008: pCylinder1 1
+    400010: Rose
+    400012: Small_can
+    400014: //RootNode
+    400016: xiadele_Circle002
+    400018: xiadele_Line010
+    400020: xiadele_Plane005
+    400022: xiadele_Plane006
+    400024: xiadele_Sphere010
+    400026: xiadele_Sphere022
+    400028: xiadele_Sphere031
+    400030: xiadele_Sphere044
+    400032: xiadele_Sphere066
+    400034: xiadele_Sphere081
+    400036: xiadele_Sphere083
+    2100000: lambert1
+    2100002: Tin
+    2100004: 'xiadele_Material #9'
+    2100006: 'xiadele_Material #4'
+    2100008: 'xiadele_Material #3'
+    2100010: 'xiadele_Material #5'
+    2100012: 'xiadele_Material #11'
+    2100014: 'xiadele_Material #10'
+    2100016: lambert3
+    2300000: Can 1
+    2300002: Can 2
+    2300004: pCylinder1
+    2300006: pCylinder1 1
+    2300008: xiadele_Circle002
+    2300010: xiadele_Line010
+    2300012: xiadele_Plane005
+    2300014: xiadele_Plane006
+    2300016: xiadele_Sphere010
+    2300018: xiadele_Sphere022
+    2300020: xiadele_Sphere031
+    2300022: xiadele_Sphere044
+    2300024: xiadele_Sphere066
+    2300026: xiadele_Sphere081
+    2300028: xiadele_Sphere083
+    3300000: Can 1
+    3300002: Can 2
+    3300004: pCylinder1
+    3300006: pCylinder1 1
+    3300008: xiadele_Circle002
+    3300010: xiadele_Line010
+    3300012: xiadele_Plane005
+    3300014: xiadele_Plane006
+    3300016: xiadele_Sphere010
+    3300018: xiadele_Sphere022
+    3300020: xiadele_Sphere031
+    3300022: xiadele_Sphere044
+    3300024: xiadele_Sphere066
+    3300026: xiadele_Sphere081
+    3300028: xiadele_Sphere083
+    4300000: pCylinder1
+    4300002: Can
+    4300004: xiadele_Line010
+    4300006: xiadele_Sphere083
+    4300008: xiadele_Sphere066
+    4300010: xiadele_Sphere044
+    4300012: xiadele_Sphere010
+    4300014: xiadele_Sphere022
+    4300016: xiadele_Sphere081
+    4300018: xiadele_Sphere031
+    4300020: xiadele_Circle002
+    4300022: xiadele_Plane006
+    4300024: xiadele_Plane005
+    4300026: pCylinder1
+    4300028: Can
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

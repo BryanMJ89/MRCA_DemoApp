@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 020d3ad1484a54a45b1608ada6e528a6
+timeCreated: 1530607194
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body_BackPlate
+    100004: Body_Display
+    100006: Body_Main
+    100008: Controls_Button
+    100010: Controls_Crown
+    100012: Strap
+    100014: Strap_Button
+    100016: pos
+    400000: //RootNode
+    400002: Body_BackPlate
+    400004: Body_Display
+    400006: Body_Main
+    400008: Controls_Button
+    400010: Controls_Crown
+    400012: Strap
+    400014: Strap_Button
+    400016: pos
+    2100000: LA_strap
+    2100002: LA_main_body
+    2100004: LA_display
+    2100006: LA_strap_button
+    2100008: LA_ctrl_crown
+    2100010: LA_ctrl_button
+    2100012: LA_body_backplate
+    2300000: Body_BackPlate
+    2300002: Body_Display
+    2300004: Body_Main
+    2300006: Controls_Button
+    2300008: Controls_Crown
+    2300010: Strap
+    2300012: Strap_Button
+    3300000: Body_BackPlate
+    3300002: Body_Display
+    3300004: Body_Main
+    3300006: Controls_Button
+    3300008: Controls_Crown
+    3300010: Strap
+    3300012: Strap_Button
+    4300000: Strap
+    4300002: Body_Main
+    4300004: Body_Display
+    4300006: Strap_Button
+    4300008: Controls_Crown
+    4300010: Controls_Button
+    4300012: Body_BackPlate
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_body_backplate
+    second: {fileID: 2100000, guid: 8ad269c7129babf49b2fb1e380af3244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_ctrl_button
+    second: {fileID: 2100000, guid: dc465a7fffae0b647b989c69a4dfd318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_ctrl_crown
+    second: {fileID: 2100000, guid: 5379d3cf4764b984f843290d50d194f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_display
+    second: {fileID: 2100000, guid: b180b9b55914ffe4a9b4f742e71c9c11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_main_body
+    second: {fileID: 2100000, guid: 994191a197c30b347ad8062c05a3ea2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_strap
+    second: {fileID: 2100000, guid: c53c07f7e7fa9ff4db8f108700c272f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_strap_button
+    second: {fileID: 2100000, guid: 10854edefd6fd3f48bf6bc4d26079b3d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

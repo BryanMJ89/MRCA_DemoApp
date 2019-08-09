@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Noodles
+  m_Controller: {fileID: 9100000, guid: 1214dc0be1c544ef7ac0a15b290e912d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 846366c87afcd480d8a3ee42f1b77417, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b28406a3f30684cda863a0ba722d12e7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e6d25116dabf047a2af6f475d72109ec, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f64f67590681f4d1f9e65aba5a4f18bd, type: 2}

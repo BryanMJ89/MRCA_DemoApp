@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: dfed544c0fac4c141bfffd4ac0392d15
+timeCreated: 1530687321
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: beef
+    100002: chopstick
+    100004: egg
+    100006: naruto
+    100008: onion
+    100010: seaweed1
+    100012: seaweed2
+    100014: smoke_duck
+    100016: spicy
+    100018: spicy_bowl
+    100020: //RootNode
+    100022: spicy_noodle
+    100024: spicy_soup
+    400000: beef
+    400002: chopstick
+    400004: egg
+    400006: naruto
+    400008: onion
+    400010: seaweed1
+    400012: seaweed2
+    400014: smoke_duck
+    400016: spicy
+    400018: spicy_bowl
+    400020: //RootNode
+    400022: spicy_noodle
+    400024: spicy_soup
+    2100000: lambert_onion
+    2100002: lambert_eggs
+    2100004: lambert_s_duck
+    2100006: lambert_naruto
+    2100008: lambert_seaweed
+    2100010: lambert_beef
+    2100012: lambert_chopstick
+    2100014: lambert_spicy_bowl
+    2100016: lambert_spicy_soup
+    2100018: lambert_spicy_noodle
+    2300000: beef
+    2300002: chopstick
+    2300004: egg
+    2300006: naruto
+    2300008: onion
+    2300010: seaweed1
+    2300012: seaweed2
+    2300014: smoke_duck
+    2300016: spicy_bowl
+    2300018: spicy_noodle
+    2300020: spicy_soup
+    3300000: beef
+    3300002: chopstick
+    3300004: egg
+    3300006: naruto
+    3300008: onion
+    3300010: seaweed1
+    3300012: seaweed2
+    3300014: smoke_duck
+    3300016: spicy_bowl
+    3300018: spicy_noodle
+    3300020: spicy_soup
+    4300000: onion
+    4300002: egg
+    4300004: smoke_duck
+    4300006: naruto
+    4300008: seaweed1
+    4300010: seaweed2
+    4300012: beef
+    4300014: chopstick
+    4300016: spicy_bowl
+    4300018: spicy_soup
+    4300020: spicy_noodle
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_beef
+    second: {fileID: 2100000, guid: 9a79dead8e3940147a82fbcee9f69069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_chopstick
+    second: {fileID: 2100000, guid: 97ef61aab7c45224aa402e867579b563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_eggs
+    second: {fileID: 2100000, guid: f9a39ab0465f44c4e8cccc7b334757cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_naruto
+    second: {fileID: 2100000, guid: a3765dfab81dcf3479624df8fab19f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_onion
+    second: {fileID: 2100000, guid: c94a5fa2b9ee88c48ba98a6596e86c04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_s_duck
+    second: {fileID: 2100000, guid: ea672f3251fef4244b0c63a733887c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_seaweed
+    second: {fileID: 2100000, guid: 72b78435bf2d35644bee9477cfe1079d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_spicy_bowl
+    second: {fileID: 2100000, guid: 92881ced129a75b4f9f07145a11def60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_spicy_noodle
+    second: {fileID: 2100000, guid: fa6478e8aeb4919438204aa8750189bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_spicy_soup
+    second: {fileID: 2100000, guid: 1bbbb1df336d2464086f43682480fc00, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

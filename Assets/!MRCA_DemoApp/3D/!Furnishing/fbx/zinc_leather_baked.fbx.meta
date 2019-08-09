@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: cb75edb2065e81941ac9c717919d2113
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back_dossier_droite
+    100002: back_dossier_gauche
+    100004: Box002
+    100006: Box004
+    100008: COUTURES002
+    100010: COUTURES003
+    100012: COUTURES004
+    100014: COUTURES005
+    100016: COUTURES006
+    100018: COUTURES007
+    100020: COUTURES008
+    100022: Cylinder002
+    100024: Cylinder003
+    100026: Cylinder004
+    100028: Cylinder005
+    100030: DOS
+    100032: DOSSIER1
+    100034: DOSSIER2
+    100036: Group005
+    100038: Group13907
+    100040: Group14167
+    100042: Group14176
+    100044: Group14178
+    100046: Group14181
+    100048: Group5619
+    100050: Group5709
+    100052: Object054
+    100054: SCATTER1
+    100056: SCATTER2
+    100058: Shape001
+    100060: Shape002
+    100062: Shape003
+    100064: Shape004
+    100066: Shape005
+    100068: Shape008
+    100070: Shape009
+    100072: Sphere005
+    100074: Sphere017
+    100076: Sphere017 1
+    100078: Sphere018
+    100080: Sphere018 1
+    100082: Sphere019
+    100084: Sphere020
+    100086: Sphere022
+    100088: Sphere023
+    100090: //RootNode
+    400000: back_dossier_droite
+    400002: back_dossier_gauche
+    400004: Box002
+    400006: Box004
+    400008: COUTURES002
+    400010: COUTURES003
+    400012: COUTURES004
+    400014: COUTURES005
+    400016: COUTURES006
+    400018: COUTURES007
+    400020: COUTURES008
+    400022: Cylinder002
+    400024: Cylinder003
+    400026: Cylinder004
+    400028: Cylinder005
+    400030: DOS
+    400032: DOSSIER1
+    400034: DOSSIER2
+    400036: Group005
+    400038: Group13907
+    400040: Group14167
+    400042: Group14176
+    400044: Group14178
+    400046: Group14181
+    400048: Group5619
+    400050: Group5709
+    400052: Object054
+    400054: SCATTER1
+    400056: SCATTER2
+    400058: Shape001
+    400060: Shape002
+    400062: Shape003
+    400064: Shape004
+    400066: Shape005
+    400068: Shape008
+    400070: Shape009
+    400072: Sphere005
+    400074: Sphere017
+    400076: Sphere017 1
+    400078: Sphere018
+    400080: Sphere018 1
+    400082: Sphere019
+    400084: Sphere020
+    400086: Sphere022
+    400088: Sphere023
+    400090: //RootNode
+    2100000: coussins
+    2100002: back
+    2100004: pieds_capitons
+    2100006: dessous
+    2100008: accotoirs
+    2100010: passes_poils
+    2100012: dossier_assise
+    2100014: coutures
+    2300000: back_dossier_droite
+    2300002: back_dossier_gauche
+    2300004: Box004
+    2300006: COUTURES002
+    2300008: COUTURES003
+    2300010: COUTURES004
+    2300012: COUTURES005
+    2300014: COUTURES006
+    2300016: COUTURES007
+    2300018: COUTURES008
+    2300020: Cylinder002
+    2300022: Cylinder003
+    2300024: Cylinder004
+    2300026: Cylinder005
+    2300028: DOS
+    2300030: DOSSIER1
+    2300032: DOSSIER2
+    2300034: Group005
+    2300036: Group13907
+    2300038: Group14167
+    2300040: Group14176
+    2300042: Group14178
+    2300044: Group14181
+    2300046: SCATTER1
+    2300048: SCATTER2
+    2300050: Shape001
+    2300052: Shape002
+    2300054: Shape003
+    2300056: Shape004
+    2300058: Shape005
+    2300060: Shape008
+    2300062: Shape009
+    2300064: Sphere017
+    2300066: Sphere017 1
+    2300068: Sphere018
+    2300070: Sphere018 1
+    2300072: Sphere019
+    2300074: Sphere020
+    2300076: Sphere022
+    2300078: Sphere023
+    3300000: back_dossier_droite
+    3300002: back_dossier_gauche
+    3300004: Box004
+    3300006: COUTURES002
+    3300008: COUTURES003
+    3300010: COUTURES004
+    3300012: COUTURES005
+    3300014: COUTURES006
+    3300016: COUTURES007
+    3300018: COUTURES008
+    3300020: Cylinder002
+    3300022: Cylinder003
+    3300024: Cylinder004
+    3300026: Cylinder005
+    3300028: DOS
+    3300030: DOSSIER1
+    3300032: DOSSIER2
+    3300034: Group005
+    3300036: Group13907
+    3300038: Group14167
+    3300040: Group14176
+    3300042: Group14178
+    3300044: Group14181
+    3300046: SCATTER1
+    3300048: SCATTER2
+    3300050: Shape001
+    3300052: Shape002
+    3300054: Shape003
+    3300056: Shape004
+    3300058: Shape005
+    3300060: Shape008
+    3300062: Shape009
+    3300064: Sphere017
+    3300066: Sphere017 1
+    3300068: Sphere018
+    3300070: Sphere018 1
+    3300072: Sphere019
+    3300074: Sphere020
+    3300076: Sphere022
+    3300078: Sphere023
+    4300000: SCATTER2
+    4300002: SCATTER1
+    4300004: DOS
+    4300006: Cylinder005
+    4300008: Cylinder004
+    4300010: Cylinder003
+    4300012: Box004
+    4300014: Cylinder002
+    4300016: Group005
+    4300018: Shape001
+    4300020: Group14181
+    4300022: Shape005
+    4300024: Group14178
+    4300026: Shape009
+    4300028: DOSSIER1
+    4300030: Sphere020
+    4300032: Sphere019
+    4300034: Shape008
+    4300036: DOSSIER2
+    4300038: Sphere017
+    4300040: Sphere018
+    4300042: Group14176
+    4300044: Group14167
+    4300046: Shape002
+    4300048: Shape004
+    4300050: Shape003
+    4300052: Group13907
+    4300054: back_dossier_droite
+    4300056: back_dossier_gauche
+    4300058: Sphere023
+    4300060: Sphere022
+    4300062: Sphere018
+    4300064: Sphere017
+    4300066: COUTURES002
+    4300068: COUTURES003
+    4300070: COUTURES004
+    4300072: COUTURES005
+    4300074: COUTURES006
+    4300076: COUTURES007
+    4300078: COUTURES008
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: accotoirs
+    second: {fileID: 2100000, guid: 40066d26b3691114db565a5fb3bdca2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back
+    second: {fileID: 2100000, guid: 86866dd9911f7b74189e2cc7a2c8e4b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coussins
+    second: {fileID: 2100000, guid: 64c3f31c7fba4404184b2e30ddbc17b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coutures
+    second: {fileID: 2100000, guid: 59da1782faaa7854c9dfee60b848d50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dessous
+    second: {fileID: 2100000, guid: 5337eb5942fad2049aa31eb19de2c211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dossier_assise
+    second: {fileID: 2100000, guid: 6a667705aa23120408a1984768f382d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passes_poils
+    second: {fileID: 2100000, guid: 13d13324905934a49801859dc7ce3221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pieds_capitons
+    second: {fileID: 2100000, guid: cf39feb9612d4bb44893b5a7694e9f38, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

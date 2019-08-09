@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 2d2a19c24dd565045830abb6f8d4abd1
+timeCreated: 1530687308
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: beef
+    100002: chopstick
+    100004: //RootNode
+    100006: egg
+    100008: naruto
+    100010: onion
+    100012: seaweed1
+    100014: seaweed2
+    100016: shoyu_bowl_p
+    100018: shoyu_noodle_p
+    100020: shoyu_plain
+    100022: shoyu_soup_p
+    100024: smoke_duck
+    100026: spicy_bowl_p
+    100028: spicy_noodle_p
+    100030: spicy_plain
+    100032: spicy_soup_p
+    400000: beef
+    400002: chopstick
+    400004: //RootNode
+    400006: egg
+    400008: naruto
+    400010: onion
+    400012: seaweed1
+    400014: seaweed2
+    400016: shoyu_bowl_p
+    400018: shoyu_noodle_p
+    400020: shoyu_plain
+    400022: shoyu_soup_p
+    400024: smoke_duck
+    400026: spicy_bowl_p
+    400028: spicy_noodle_p
+    400030: spicy_plain
+    400032: spicy_soup_p
+    2100000: lambert_onion
+    2100002: lambert_eggs
+    2100004: lambert_s_duck
+    2100006: lambert_naruto
+    2100008: lambert_seaweed
+    2100010: lambert_beef
+    2100012: lambert_chopstick
+    2100014: lambert_shoyu_bowl_plain
+    2100016: lambert_shoyu_soup_plain
+    2100018: lambert_shoyu_noodle_plain
+    2100020: lambert_spicy_bowl_plain
+    2100022: lambert_spicy_soup_plain
+    2100024: lambert_spicy_noodle_plain
+    2300000: beef
+    2300002: chopstick
+    2300004: egg
+    2300006: naruto
+    2300008: onion
+    2300010: seaweed1
+    2300012: seaweed2
+    2300014: shoyu_bowl_p
+    2300016: shoyu_noodle_p
+    2300018: shoyu_soup_p
+    2300020: smoke_duck
+    2300022: spicy_bowl_p
+    2300024: spicy_noodle_p
+    2300026: spicy_soup_p
+    3300000: beef
+    3300002: chopstick
+    3300004: egg
+    3300006: naruto
+    3300008: onion
+    3300010: seaweed1
+    3300012: seaweed2
+    3300014: shoyu_bowl_p
+    3300016: shoyu_noodle_p
+    3300018: shoyu_soup_p
+    3300020: smoke_duck
+    3300022: spicy_bowl_p
+    3300024: spicy_noodle_p
+    3300026: spicy_soup_p
+    4300000: onion
+    4300002: egg
+    4300004: smoke_duck
+    4300006: naruto
+    4300008: seaweed1
+    4300010: seaweed2
+    4300012: beef
+    4300014: chopstick
+    4300016: shoyu_bowl_p
+    4300018: shoyu_soup_p
+    4300020: shoyu_noodle_p
+    4300022: spicy_bowl_p
+    4300024: spicy_soup_p
+    4300026: spicy_noodle_p
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_beef
+    second: {fileID: 2100000, guid: 9a79dead8e3940147a82fbcee9f69069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_chopstick
+    second: {fileID: 2100000, guid: 97ef61aab7c45224aa402e867579b563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_eggs
+    second: {fileID: 2100000, guid: f9a39ab0465f44c4e8cccc7b334757cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_naruto
+    second: {fileID: 2100000, guid: a3765dfab81dcf3479624df8fab19f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_onion
+    second: {fileID: 2100000, guid: c94a5fa2b9ee88c48ba98a6596e86c04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_s_duck
+    second: {fileID: 2100000, guid: ea672f3251fef4244b0c63a733887c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_seaweed
+    second: {fileID: 2100000, guid: 72b78435bf2d35644bee9477cfe1079d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_shoyu_bowl_plain
+    second: {fileID: 2100000, guid: 9d789530edcd8cb4c8d5a19aa521a06d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_shoyu_noodle_plain
+    second: {fileID: 2100000, guid: 7b6bdf4fdcad114459a2fb03dd9b1123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_shoyu_soup_plain
+    second: {fileID: 2100000, guid: 16254fe01aeddb245b57fd2f808570f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_spicy_bowl_plain
+    second: {fileID: 2100000, guid: 92881ced129a75b4f9f07145a11def60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_spicy_noodle_plain
+    second: {fileID: 2100000, guid: 9bd7d6e228262c34c9a2a33025a00395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert_spicy_soup_plain
+    second: {fileID: 2100000, guid: c08c67a7a190ea64bba57a13c014d5e6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

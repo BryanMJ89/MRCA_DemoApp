@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: c64e6ec8f644d034a9463ff5bc25020e
+timeCreated: 1530247559
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body_case
+    100002: clip
+    100004: crown
+    100006: face_bevel
+    100008: //RootNode
+    100010: glass
+    100012: illuminati_A
+    100014: illuminati_B
+    100016: illuminati_C
+    100018: needle_A
+    100020: needle_B
+    100022: needles_pins
+    100024: numbers
+    100026: strap
+    100028: strap_loop
+    100030: strap_pins
+    100032: sub_dial
+    100034: sub_needles
+    100036: subdial_details
+    100038: subdial_ring
+    100040: the_twelve
+    100042: time_indicator
+    100044: watch_face
+    100046: watch_face_rim_A
+    100048: watch_face_rim_B
+    100050: watch_face_ring
+    100052: pos
+    400000: body_case
+    400002: clip
+    400004: crown
+    400006: face_bevel
+    400008: //RootNode
+    400010: glass
+    400012: illuminati_A
+    400014: illuminati_B
+    400016: illuminati_C
+    400018: needle_A
+    400020: needle_B
+    400022: needles_pins
+    400024: numbers
+    400026: strap
+    400028: strap_loop
+    400030: strap_pins
+    400032: sub_dial
+    400034: sub_needles
+    400036: subdial_details
+    400038: subdial_ring
+    400040: the_twelve
+    400042: time_indicator
+    400044: watch_face
+    400046: watch_face_rim_A
+    400048: watch_face_rim_B
+    400050: watch_face_ring
+    400052: pos
+    2100000: LA_glass
+    2100002: LA_strap
+    2100004: LA_clips
+    2100006: LA_steel_body_case
+    2100008: LA_face_bevel
+    2100010: LA_crown
+    2100012: LA_face_ring
+    2100014: LA_watch_face
+    2100016: LA_sub_dial
+    2100018: LA_time_indicator
+    2100020: LA_illuminati_A
+    2100022: LA_the_twelve
+    2100024: LA_face_rim_A
+    2100026: LA_face_rim_B
+    2100028: LA_sub_needles
+    2100030: LA_needles_pins
+    2100032: LA_needle_A
+    2100034: LA_needle_B
+    2100036: LA_illuminati_B
+    2100038: LA_subdial_ring
+    2100040: LA_illuminati_C
+    2100042: LA_numbers
+    2100044: LA_subdial_details
+    2300000: body_case
+    2300002: clip
+    2300004: crown
+    2300006: face_bevel
+    2300008: glass
+    2300010: illuminati_A
+    2300012: illuminati_B
+    2300014: illuminati_C
+    2300016: needle_A
+    2300018: needle_B
+    2300020: needles_pins
+    2300022: numbers
+    2300024: strap
+    2300026: strap_loop
+    2300028: strap_pins
+    2300030: sub_dial
+    2300032: sub_needles
+    2300034: subdial_details
+    2300036: subdial_ring
+    2300038: the_twelve
+    2300040: time_indicator
+    2300042: watch_face
+    2300044: watch_face_rim_A
+    2300046: watch_face_rim_B
+    2300048: watch_face_ring
+    3300000: body_case
+    3300002: clip
+    3300004: crown
+    3300006: face_bevel
+    3300008: glass
+    3300010: illuminati_A
+    3300012: illuminati_B
+    3300014: illuminati_C
+    3300016: needle_A
+    3300018: needle_B
+    3300020: needles_pins
+    3300022: numbers
+    3300024: strap
+    3300026: strap_loop
+    3300028: strap_pins
+    3300030: sub_dial
+    3300032: sub_needles
+    3300034: subdial_details
+    3300036: subdial_ring
+    3300038: the_twelve
+    3300040: time_indicator
+    3300042: watch_face
+    3300044: watch_face_rim_A
+    3300046: watch_face_rim_B
+    3300048: watch_face_ring
+    4300000: glass
+    4300002: strap
+    4300004: strap_loop
+    4300006: clip
+    4300008: strap_pins
+    4300010: face_bevel
+    4300012: body_case
+    4300014: crown
+    4300016: watch_face_ring
+    4300018: watch_face
+    4300020: sub_dial
+    4300022: time_indicator
+    4300024: illuminati_A
+    4300026: the_twelve
+    4300028: watch_face_rim_A
+    4300030: watch_face_rim_B
+    4300032: sub_needles
+    4300034: needles_pins
+    4300036: needle_A
+    4300038: needle_B
+    4300040: illuminati_B
+    4300042: subdial_ring
+    4300044: illuminati_C
+    4300046: numbers
+    4300048: subdial_details
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_clips
+    second: {fileID: 2100000, guid: 3db50673c8dd83746b8e45905aa3bc7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_crown
+    second: {fileID: 2100000, guid: f98a388cdab5e6f4895ebab3a3b9815f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_face_bevel
+    second: {fileID: 2100000, guid: 2165d589ce04e3b4fbc47e2a4b26bf02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_face_rim_A
+    second: {fileID: 2100000, guid: db507fac88f2da343bafedf128b03f69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_face_rim_B
+    second: {fileID: 2100000, guid: bd64daac747a74a4d8c8da897ab805b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_face_ring
+    second: {fileID: 2100000, guid: d628f30953f22e04db4335cdd272d469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_glass
+    second: {fileID: 2100000, guid: 72544864df25de44c82443283fa661bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_illuminati_A
+    second: {fileID: 2100000, guid: 5f424e0a6927eb34d9bc4d6608b2d9d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_illuminati_B
+    second: {fileID: 2100000, guid: 2bd1d710830175f4b91792a70eeafd79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_illuminati_C
+    second: {fileID: 2100000, guid: e00180373be58784ebbe17febec1077d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_needle_A
+    second: {fileID: 2100000, guid: 535c0ea28f560ab419bf20c096b70f27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_needle_B
+    second: {fileID: 2100000, guid: e88475ae90d5df84799040c9eb767d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_needles_pins
+    second: {fileID: 2100000, guid: ee6aa5e3718549249b9dac04425b10b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_numbers
+    second: {fileID: 2100000, guid: c9dd520c0dd07234495cf82a984c60de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_steel_body_case
+    second: {fileID: 2100000, guid: d72af808b73423d44b643eb3206fe9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_strap
+    second: {fileID: 2100000, guid: 5d5a95b8021e35b459af2c0f01a6910e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_sub_dial
+    second: {fileID: 2100000, guid: 12f2f132c074849409ead97a289aeca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_sub_needles
+    second: {fileID: 2100000, guid: 7fd80177ee4f54742aa38eb4326d8e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_subdial_details
+    second: {fileID: 2100000, guid: ed75b8f5462cb314e800293ae6e4a92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_subdial_ring
+    second: {fileID: 2100000, guid: 5f66bb24c98ffa949baf164622a01cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_the_twelve
+    second: {fileID: 2100000, guid: 240c7b5f339977846b4fae08c3ef3249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_time_indicator
+    second: {fileID: 2100000, guid: 9848d69debba2c544958c4d486973ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_watch_face
+    second: {fileID: 2100000, guid: 497eee5738b10c7488d9e05206d673b9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

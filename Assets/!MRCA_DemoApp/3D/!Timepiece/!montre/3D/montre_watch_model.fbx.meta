@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: ecb9b8ad56b924d4cb4e9cc21ed106ec
+timeCreated: 1530585887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: backing
+    100002: backing_inlay
+    100004: clip1
+    100006: crown
+    100008: face_nuts
+    100010: face_tri_body
+    100012: gears_A
+    100014: gears_B
+    100016: gears_C
+    100018: gears_D
+    100020: gears_E
+    100022: gears_F
+    100024: gears_G
+    100026: gears_H
+    100028: glass
+    100030: infinity_deco
+    100032: inlay_B
+    100034: inner_face_A
+    100036: inner_face_B
+    100038: inner_face_C
+    100040: inner_face_mount
+    100042: large_screws
+    100044: LOUIS_MOINET
+    100046: main_needles_A
+    100048: main_needles_B
+    100050: //RootNode
+    100052: mov_jewels
+    100054: strap1
+    100056: strap_loop1
+    100058: strap_pin
+    100060: text_inlay
+    100062: watch_bevel_ring
+    100064: watch_case_A
+    100066: watch_case_B
+    100068: watch_face
+    100070: watch_face_A
+    100072: watch_face_inlay
+    100074: web_pattern
+    100076: pos
+    400000: backing
+    400002: backing_inlay
+    400004: clip1
+    400006: crown
+    400008: face_nuts
+    400010: face_tri_body
+    400012: gears_A
+    400014: gears_B
+    400016: gears_C
+    400018: gears_D
+    400020: gears_E
+    400022: gears_F
+    400024: gears_G
+    400026: gears_H
+    400028: glass
+    400030: infinity_deco
+    400032: inlay_B
+    400034: inner_face_A
+    400036: inner_face_B
+    400038: inner_face_C
+    400040: inner_face_mount
+    400042: large_screws
+    400044: LOUIS_MOINET
+    400046: main_needles_A
+    400048: main_needles_B
+    400050: //RootNode
+    400052: mov_jewels
+    400054: strap1
+    400056: strap_loop1
+    400058: strap_pin
+    400060: text_inlay
+    400062: watch_bevel_ring
+    400064: watch_case_A
+    400066: watch_case_B
+    400068: watch_face
+    400070: watch_face_A
+    400072: watch_face_inlay
+    400074: web_pattern
+    400076: pos
+    2100000: LA_watch_case_A
+    2100002: LA_watch_case_B
+    2100004: LA_watch_bevel_ring
+    2100006: LA_glass
+    2100008: LA_crown
+    2100010: LA_strap_pins
+    2100012: LA_screws
+    2100014: LA_inner_face
+    2100016: LA_inner_face_A
+    2100018: LA_watch_face_A
+    2100020: LA_main_needles_A
+    2100022: LA_main_needles_B
+    2100024: LA_LOUIS_MOINET
+    2100026: LA_text_inlay
+    2100028: LA_watch_face
+    2100030: LA_web_pattern
+    2100032: LA_face_nuts
+    2100034: LA_mov_jewels
+    2100036: LA_inlay_B
+    2100038: LA_gears_A
+    2100040: LA_gears_B
+    2100042: LA_gears_C
+    2100044: LA_gears_D
+    2100046: LA_gears_E
+    2100048: LA_gears_F
+    2100050: LA_gears_G
+    2100052: LA_gears_H
+    2100054: LA_strap
+    2100056: LA_clips
+    2100058: LA_backing
+    2100060: LA_large_screws
+    2100062: LA_inner_facemount
+    2100064: LA_inner_face_C
+    2100066: LA_inner_face_B
+    2100068: LA_watch_face_inlay
+    2100070: LA_face_tri_body
+    2100072: LA_strap_loop
+    2100074: LA_clip
+    2300000: backing
+    2300002: backing_inlay
+    2300004: clip1
+    2300006: crown
+    2300008: face_nuts
+    2300010: face_tri_body
+    2300012: gears_A
+    2300014: gears_B
+    2300016: gears_C
+    2300018: gears_D
+    2300020: gears_E
+    2300022: gears_F
+    2300024: gears_G
+    2300026: gears_H
+    2300028: glass
+    2300030: infinity_deco
+    2300032: inlay_B
+    2300034: inner_face_A
+    2300036: inner_face_B
+    2300038: inner_face_C
+    2300040: inner_face_mount
+    2300042: large_screws
+    2300044: LOUIS_MOINET
+    2300046: main_needles_A
+    2300048: main_needles_B
+    2300050: mov_jewels
+    2300052: strap1
+    2300054: strap_loop1
+    2300056: strap_pin
+    2300058: text_inlay
+    2300060: watch_bevel_ring
+    2300062: watch_case_A
+    2300064: watch_case_B
+    2300066: watch_face
+    2300068: watch_face_A
+    2300070: watch_face_inlay
+    2300072: web_pattern
+    3300000: backing
+    3300002: backing_inlay
+    3300004: clip1
+    3300006: crown
+    3300008: face_nuts
+    3300010: face_tri_body
+    3300012: gears_A
+    3300014: gears_B
+    3300016: gears_C
+    3300018: gears_D
+    3300020: gears_E
+    3300022: gears_F
+    3300024: gears_G
+    3300026: gears_H
+    3300028: glass
+    3300030: infinity_deco
+    3300032: inlay_B
+    3300034: inner_face_A
+    3300036: inner_face_B
+    3300038: inner_face_C
+    3300040: inner_face_mount
+    3300042: large_screws
+    3300044: LOUIS_MOINET
+    3300046: main_needles_A
+    3300048: main_needles_B
+    3300050: mov_jewels
+    3300052: strap1
+    3300054: strap_loop1
+    3300056: strap_pin
+    3300058: text_inlay
+    3300060: watch_bevel_ring
+    3300062: watch_case_A
+    3300064: watch_case_B
+    3300066: watch_face
+    3300068: watch_face_A
+    3300070: watch_face_inlay
+    3300072: web_pattern
+    4300000: backing
+    4300002: backing_inlay
+    4300004: watch_bevel_ring
+    4300006: glass
+    4300008: crown
+    4300010: strap_pin
+    4300012: watch_case_A
+    4300014: large_screws
+    4300016: watch_case_B
+    4300018: inner_face_mount
+    4300020: inner_face_C
+    4300022: inner_face_B
+    4300024: inner_face_A
+    4300026: watch_face_A
+    4300028: main_needles_A
+    4300030: main_needles_B
+    4300032: LOUIS_MOINET
+    4300034: text_inlay
+    4300036: watch_face
+    4300038: watch_face_inlay
+    4300040: web_pattern
+    4300042: face_nuts
+    4300044: mov_jewels
+    4300046: face_tri_body
+    4300048: infinity_deco
+    4300050: inlay_B
+    4300052: gears_A
+    4300054: gears_B
+    4300056: gears_C
+    4300058: gears_D
+    4300060: gears_E
+    4300062: gears_F
+    4300064: gears_G
+    4300066: gears_H
+    4300068: strap_loop1
+    4300070: clip1
+    4300072: strap1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_LOUIS_MOINET
+    second: {fileID: 2100000, guid: 679fc8b2186731d4f967e135914cc0df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_backing
+    second: {fileID: 2100000, guid: 15c057a9e1f41364db925a88154f135a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_clip
+    second: {fileID: 2100000, guid: 7037b0931907b4d448f1ebeff7fa88d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_clips
+    second: {fileID: 2100000, guid: 405f0fdc7ddc84646a67831401dfad40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_crown
+    second: {fileID: 2100000, guid: adc85f9cea6ab1e4d90bbf080bcfbc1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_face_nuts
+    second: {fileID: 2100000, guid: c2ef1eb1e8d04174bb388fc8e5118679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_face_tri_body
+    second: {fileID: 2100000, guid: b94fc952ba0c644499bef00c78c580f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_A
+    second: {fileID: 2100000, guid: 76b461904de390243877573cac4d3cfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_B
+    second: {fileID: 2100000, guid: d4f2904818163514ea8ebf34cdca6791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_C
+    second: {fileID: 2100000, guid: 99f84bd505e153d42947ec1727032b75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_D
+    second: {fileID: 2100000, guid: 5e79badbb3552174683e4ef7e7d04ded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_E
+    second: {fileID: 2100000, guid: 68250eb99452aa447999cdf74338f1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_F
+    second: {fileID: 2100000, guid: 6b35622d09b758946be2718adf73693c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_G
+    second: {fileID: 2100000, guid: 96506d930714d0d478c045f0d7ccae06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_gears_H
+    second: {fileID: 2100000, guid: 781dcfcaa4e33d545b910e9a389bdb44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_glass
+    second: {fileID: 2100000, guid: df11f38d434dae84abc1bf61bc31affd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_inlay_B
+    second: {fileID: 2100000, guid: 05175dd1814778e4386ad11597fe8f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_inner_face
+    second: {fileID: 2100000, guid: 2a85da740dffa764891d0a0f1f964f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_inner_face_A
+    second: {fileID: 2100000, guid: b58324e0a1bbbe2468482ae307fdd6be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_inner_face_B
+    second: {fileID: 2100000, guid: 9338d6b26d8c44644a2335a9ac79ab37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_inner_face_C
+    second: {fileID: 2100000, guid: 66df95ef2c94e9240b0e1d09c6d5ed16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_inner_facemount
+    second: {fileID: 2100000, guid: 2b25393f4dba5414182a7f0ed4a41d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_large_screws
+    second: {fileID: 2100000, guid: b2f3cf513377a9741a62579e09f5a0ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_main_needles_A
+    second: {fileID: 2100000, guid: 98383894437d2674f876c80182188ea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_main_needles_B
+    second: {fileID: 2100000, guid: 6ed1f063ff214664492a5eba70f8741c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_mov_jewels
+    second: {fileID: 2100000, guid: 59af6796086c71445aa4e791b4304254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_screws
+    second: {fileID: 2100000, guid: d13bde48481a1234bb09bb90e3e56d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_strap
+    second: {fileID: 2100000, guid: 0855697ae0c6799438d2e19a70fbf635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_strap_loop
+    second: {fileID: 2100000, guid: e90b866bb4773cf4dbffb259b8452a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_strap_pins
+    second: {fileID: 2100000, guid: 82eb968657c8cd0428a727abf4c3cadd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_text_inlay
+    second: {fileID: 2100000, guid: 587b7b6cdea8435439354a8cb2b93294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_watch_bevel_ring
+    second: {fileID: 2100000, guid: 2024d54d16236cd42b7532686583188e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_watch_case_A
+    second: {fileID: 2100000, guid: 5eb34b8547ac03c459f94cf05ce4ca66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_watch_case_B
+    second: {fileID: 2100000, guid: c3eb2e2f17337dd4bb63d17072e1afe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_watch_face
+    second: {fileID: 2100000, guid: a38b554e40a6e364a83d8b2f0f6cf2ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_watch_face_A
+    second: {fileID: 2100000, guid: 918aca5ec8935da41a5f724a3217b9da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_watch_face_inlay
+    second: {fileID: 2100000, guid: d566788272ce5604cb3c86cfe487f9d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LA_web_pattern
+    second: {fileID: 2100000, guid: 1a5a9adba779ccc47817f68f6fcdfbff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
